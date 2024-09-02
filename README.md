@@ -1,2 +1,2 @@
-# Credit_Card_Fanancial_DashBord
+# Credit_Card_Financial_DashBord
 Power BI DashBorad
